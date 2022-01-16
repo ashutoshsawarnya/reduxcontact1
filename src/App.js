@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     Hello World
+    <h1>Welcome to React Redux Contact Book </h1>
     </div>
   );
 }
